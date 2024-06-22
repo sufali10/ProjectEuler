@@ -1,6 +1,6 @@
 # ProjectEuler
 
-## Purpose
+## Overview 
 
 This folder contains the Jupyter notebook files I have created to document my solutions, computed in Python, to the Project Euler problem sets. Each file corresponds to one problem and contains the problem statement, an outline of my thought process in determining the solution, followed by my solution.
 
