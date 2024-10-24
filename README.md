@@ -6,7 +6,7 @@ This repository contains the Jupyter notebook files I have created to document m
 
 ## Table of Contents
 
-| Problem Number | Title                          | Link To My Notebook Solution                  |
+| Problem Number | Title                          | Link To My Solution Notebook                  |
 |----------------|--------------------------------|-----------------------------------------------|
 | Problem 1      | Multiples of 3 and 5           | [Problem 1](ProjectEulerSolutions/Problem1.ipynb) |
 | Problem 2      | Even Fibonacci Numbers           | [Problem 2](ProjectEulerSolutions/Problem2.ipynb) |
