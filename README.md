@@ -18,4 +18,4 @@ Additionally, some notebooks include generalised extensions of the original prob
 
 ## Invitation for Feedback and Extensions
 
-I am happy to receive feedback to improve my documentation, solutions or code clarity, and would be keen to discuss further extensions of the problems as I do sometimes like to take on myself.
+I am happy to receive feedback to improve my documentation, solutions or code clarity, and would be keen to discuss interesting extensions of the problems. 
