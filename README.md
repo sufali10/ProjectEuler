@@ -1,5 +1,7 @@
 # ProjectEuler
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+
 ## Overview 
 
 This repository contains the Jupyter notebook files I have created to document my solutions, computed in Python, to the Project Euler problem sets. Each file corresponds to one problem and includes the problem statement, an outline of my thought process in determining the solution, and the solution itself. Additionally, some notebooks may include extensions of the original problems.
